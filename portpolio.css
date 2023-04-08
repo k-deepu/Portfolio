@@ -1,0 +1,39 @@
+body{
+    margin:0;
+    margin-top: 2rem !important;
+}
+div{
+    margin-left: 15% !important;
+    margin-right: 15% !important;
+    background-color: antiquewhite !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
+    padding-bottom:.5rem !important;
+    text-decoration: none;
+}
+.name{
+    padding-top: .1rem;
+}
+.name h1, .aboutme h2, .education h2, .skill h2,.cert h2{
+    border-bottom: 1px solid black; 
+    color:cornflowerblue;
+}
+.cert a{
+    text-decoration: none;
+    color: black;
+}
+.cert a:hover{
+    font-size: larger;
+    text-decoration: underline;
+}
+.links {
+    text-align: center;
+}
+.links a{
+    font-size: 1.3rem;
+    color:blue;
+}
+.links a:hover{
+    font-size:2rem;
+    color:blue;
+}
